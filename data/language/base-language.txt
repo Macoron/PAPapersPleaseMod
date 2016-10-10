@@ -1,0 +1,25 @@
+ceos_letter                             Hello, Director\n\n\nBy the order of ministry of justice you are appointed as a director of new type of prison.\n\nYour duty is to prevent any rebellious acts of your prisoners. Keep in mind, that we are watching your progress.\n\nWe belive you will not disappoint us.\n\nGlory to Arstrozka.
+
+# =============================================================================
+# Crime names
+# =============================================================================
+crime_bribery                     Bribery
+crime_addict                      Addict
+crime_DrunkDisorderlyBehaviour    Drunk Disorderly Behaviour
+crime_DangerousDriving            Dangerous Driving
+crime_DrivingUnderInfluence       Driving Under Influence
+crime_Fraud                       Fraud
+crime_Forgery                     Forgery
+crime_Delinquency                 Delinquency
+crime_DestructionOfProperty       Destruction Of Property
+crime_FalseAccounting             False Accounting
+crime_Trading                     Trading
+crime_Perjury                     Perjury
+crime_Pickpocketing               Pickpocketing
+crime_EnemyOfThePeople            Enemy Of The People
+crime_BannedLiterature            Possession of Banned Literature
+crime_Rioting                     Rioting
+crime_AntipartyActivity           Anti-party Activity
+crime_Espionage                   Espionage
+crime_Sabotage                    Sabotage
+crime_Propaganda                  Propaganda

@@ -1,0 +1,8 @@
+
+Name                 "Papers Please mod - Dev version"  
+Description          "[b]Work with 1.1[/b]\r\nGlory to Arstotzka!\r\n\r\nIn this mod you are director of glorious Arstotzkan prison. Make prisoners collaborate with Ministry of Information and work hard for the glorious motherland.\r\nBased on game \"Papers, Please!\" by Lucas Pope. Thank him for this great game, all original graphic belong to him.\r\nThis mod under development, currently it's mostly retexture. Maybe I will add more gameplay changes later. Feel free to give some ideas in suggestions forum.\r\n\r\nIf you want to help with mod, please contact me in steam."  
+IsTranslation        false  
+FileID               F389484978  
+UpdateTime           1447871027  
+SteamAuthor          A76561198001144636  
+Author               Macoron  

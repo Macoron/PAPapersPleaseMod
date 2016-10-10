@@ -1,0 +1,853 @@
+
+BEGIN Names
+    Forename Abram
+    Forename Alexander
+    Forename Alexei
+    Forename Albert
+    Forename Anatoly
+    Forename Andrei
+    Forename Anton
+    Forename Andrew
+    Forename Arkady
+    Forename Arseny
+    Forename Artyom
+    Forename Artur
+    Forename Afanasy
+    Forename Bogdan
+    Forename Boris
+    Forename Vadim
+    Forename Valentin
+    Forename Valery
+    Forename Vasily
+    Forename Veniamin
+    Forename Viktor
+    Forename Vitaly
+    Forename Vlad
+    Forename Vladimir
+    Forename Vladislav
+    Forename Gavriil
+    Forename Garry
+	Forename Gennady
+    Forename Georgy
+    Forename Gerasim
+    Forename Gleb
+    Forename Grigory
+    Forename David
+    Forename Daniil
+    Forename Denis
+    Forename Dmitry
+    Forename Evgeny
+    Forename Yegor
+    Forename Yefim
+    Forename Zakhar
+    Forename Ivan
+    Forename Ignat
+    Forename Igor
+    Forename Iosif
+    Forename Kirill
+    Forename Konstantin
+    Forename Lev
+    Forename Leonid
+    Forename Makar
+    Forename Maxim
+    Forename Marat
+    Forename Mark
+    Forename Matvei
+    Forename Mikhail
+	Forename Nestor
+	Forename Nikita
+    Forename Nikolay
+    Forename Oleg
+    Forename Pavel
+    Forename Pyotr
+    Forename Robert
+    Forename Rodion
+    Forename Roman
+    Forename Ruslan
+    Forename Semyon
+    Forename Sergei
+    Forename Spartak
+    Forename Stanislav
+    Forename Stepan
+    Forename Taras
+    Forename Timofei
+    Forename Timur
+    Forename Trofim
+    Forename Eduard
+    Forename Erik
+    Forename Yulian
+    Forename Yury
+    Forename Yakov
+    Forename Yaroslav
+    FemaleName Sophia
+    FemaleName Emma
+    FemaleName Olivia
+    FemaleName Ava
+    FemaleName Isabella
+    FemaleName Mia
+    FemaleName Zoe
+    FemaleName Lily
+    FemaleName Emily
+    FemaleName Madelyn
+    FemaleName Madison
+    FemaleName Chloe
+    FemaleName Charlotte
+    FemaleName Aubrey
+    FemaleName Avery
+    FemaleName Abigail
+    FemaleName Kaylee
+    FemaleName Layla
+    FemaleName Harper
+    FemaleName Ella
+    FemaleName Amelia
+    FemaleName Arianna
+    FemaleName Riley
+    FemaleName Aria
+    FemaleName Hailey
+    FemaleName Hannah
+    FemaleName Aaliyah
+    FemaleName Evelyn
+    FemaleName Addison
+    FemaleName Mackenzie
+    FemaleName Adalyn
+    FemaleName Ellie
+    FemaleName Brooklyn
+    FemaleName Nora
+    FemaleName Scarlett
+    FemaleName Grace
+    FemaleName Anna
+    FemaleName Isabelle
+    FemaleName Natalie
+    FemaleName Kaitlyn
+    FemaleName Lillian
+    FemaleName Sarah
+    FemaleName Audrey
+    FemaleName Elizabeth
+    FemaleName Leah
+    FemaleName Annabelle
+    FemaleName Kylie
+    FemaleName Mila
+    FemaleName Claire
+    FemaleName Victoria
+    FemaleName Maya
+    FemaleName Lila
+    FemaleName Elena
+    FemaleName Lucy
+    FemaleName Savannah
+    FemaleName Gabriella
+    FemaleName Callie
+    FemaleName Alaina
+    FemaleName Sophie
+    FemaleName Makayla
+    FemaleName Kennedy
+    FemaleName Sadie
+    FemaleName Skyler
+    FemaleName Allison
+    FemaleName Caroline
+    FemaleName Charlie
+    FemaleName Penelope
+    FemaleName Alyssa
+    FemaleName Peyton
+    FemaleName Samantha
+    FemaleName Liliana
+    FemaleName Bailey
+    FemaleName Maria
+    FemaleName Reagan
+    FemaleName Violet
+    FemaleName Eliana
+    FemaleName Adeline
+    FemaleName Eva
+    FemaleName Stella
+    FemaleName Keira
+    FemaleName Katherine
+    FemaleName Vivian
+    FemaleName Alice
+    FemaleName Alexandra
+    FemaleName Camilla
+    FemaleName Kayla
+    FemaleName Alexis
+    FemaleName Sydney
+    FemaleName Kaelyn
+    FemaleName Jasmine
+    FemaleName Julia
+    FemaleName Cora
+    FemaleName Lauren
+    FemaleName Piper
+    FemaleName Gianna
+    FemaleName Paisley
+    FemaleName Bella
+    FemaleName London
+    FemaleName Clara
+    FemaleName Cadence
+    Surname Abramov
+    Surname Adamovich
+    Surname Agin
+    Surname Aksamit
+    Surname Angelov
+    Surname Antonov
+    Surname Babin
+    Surname Babinski
+    Surname Balaban
+    Surname Banasik
+    Surname Bardin
+    Surname Belinsky
+    Surname Belkin
+    Surname Belsky
+    Surname Berezin
+    Surname Bogdanovich
+    Surname Bolotin
+    Surname Borin
+    Surname Bunin
+    Surname Burak
+    Surname Burdin
+    Surname Chaban
+    Surname Chaplinski
+    Surname Chernov
+    Surname Churilla
+    Surname Daman
+    Surname Davidovich
+    Surname Davydov
+    Surname Dembinski
+    Surname Devin
+    Surname Dmitriev
+    Surname Dobrow
+    Surname Dolinski
+    Surname Dombrowsky
+    Surname Dorosh
+    Surname Dubov
+    Surname Dubsky
+    Surname Duskin
+    Surname Elin
+    Surname Evanov
+    Surname Falin
+    Surname Federov
+    Surname Galkin
+    Surname Garin
+    Surname Genrich
+    Surname Glinka
+    Surname Golub
+    Surname Grasmick
+    Surname Guba
+    Surname Gura
+    Surname Gurin
+    Surname Gurkin
+    Surname Holub
+    Surname Ivanov
+    Surname Karp
+    Surname Kazan
+    Surname Korsak
+    Surname Kot
+    Surname Koval
+    Surname Kovaleski
+    Surname Kovalski
+    Surname Kowalchuk
+    Surname Kozel
+    Surname Kozlov
+    Surname Kozlovsky
+    Surname Kozuch
+    Surname Kramar
+    Surname Krasinski
+    Surname Krasnov
+    Surname Kravec
+    Surname Kravets
+    Surname Kristov
+    Surname Krupski
+    Surname Kuzma
+    Surname Kuznetsov
+    Surname Lach
+    Surname Laskin
+    Surname Lazarov
+    Surname Levin
+    Surname Levitsky
+    Surname Lipovsky
+    Surname Litvin
+    Surname Lopatin
+    Surname Lukin
+    Surname Markov
+    Surname Markovich
+    Surname Markowski
+    Surname Maslow
+    Surname Medved
+    Surname Melnikov
+    Surname Mihalovich
+    Surname Mikulich
+    Surname Minsky
+    Surname Mishkin
+    Surname Morein
+    Surname Moroz
+    Surname Novikov
+    Surname Novosad
+    Surname Olshansky
+    Surname Orlov
+    Surname Orlovsky
+    Surname Ostrovsky
+    Surname Pac
+    Surname Paley
+    Surname Pavlov
+    Surname Pavlovich
+    Surname Pavlovsky
+    Surname Petrov
+    Surname Petrovich
+    Surname Petrowski
+    Surname Polakov
+    Surname Polanski
+    Surname Polansky
+    Surname Poleski
+    Surname Polsky
+    Surname Polyakov
+    Surname Popov
+    Surname Popovich
+    Surname Pozniak
+    Surname Primack
+    Surname Prokop
+    Surname Pyzik
+    Surname Rakowski
+    Surname Rodin
+    Surname Romanov
+    Surname Romanowski
+    Surname Rudnitsky
+    Surname Russak
+    Surname Sadowski
+    Surname Samarin
+    Surname Savin
+    Surname Shimko
+    Surname Shostak
+    Surname Shubin
+    Surname Simonich
+    Surname Slivka
+    Surname Slutsky
+    Surname Slutzky
+    Surname Smolin
+    Surname Sokol
+    Surname Sokolov
+    Surname Sokolski
+    Surname Sorokin
+    Surname Stankevich
+    Surname Topolski
+    Surname Tunick
+    Surname Tur
+    Surname Turchin
+    Surname Volkov
+    Surname Wolsky
+    Surname Yudin
+    Surname Yurkovich
+    Surname Zalesky
+    Surname Zaretsky
+END
+
+# =============================================================================
+# Traits
+
+BEGIN CriminalTrait
+    Name            Violent
+    ChanceLow       10
+    ChanceMedium    50
+    ChanceHigh      90
+END
+
+BEGIN CriminalTrait
+    Name            Fraud
+    ChanceLow       80
+    ChanceMedium    40
+    ChanceHigh      0
+END
+
+BEGIN CriminalTrait
+    Name            RisksLife
+    ChanceLow       0
+    ChanceMedium    30
+    ChanceHigh      80
+END
+
+BEGIN CriminalTrait
+    Name            Destructive
+    ChanceLow       20
+    ChanceMedium    50
+    ChanceHigh      90
+END
+
+BEGIN CriminalTrait
+    Name            Theft
+    ChanceLow       90
+    ChanceMedium    70
+    ChanceHigh      30
+END
+
+BEGIN CriminalTrait
+    Name            Narcotics
+    ChanceLow       50
+    ChanceMedium    50
+    ChanceHigh      20
+END
+
+BEGIN CriminalTrait
+    Name            Lethal
+    ChanceLow       0
+    ChanceMedium    10
+    ChanceHigh      90
+END
+
+BEGIN CriminalTrait
+    Name            Sexual
+    ChanceLow       0
+    ChanceMedium    10
+    ChanceHigh      10
+END
+
+BEGIN CriminalTrait
+    Name            Controlling
+    ChanceLow       0
+    ChanceMedium    30
+    ChanceHigh      60
+END
+
+BEGIN CriminalTrait
+    Name            Vehicular
+    ChanceLow       20
+    ChanceMedium    40
+    ChanceHigh      0
+END
+
+BEGIN CriminalTrait
+    Name            Clever
+    ChanceLow       30
+    ChanceMedium    20
+    ChanceHigh      10
+END
+
+BEGIN CriminalTrait
+    Name            Petty
+    ChanceLow       50
+    ChanceMedium    10
+    ChanceHigh      0
+END
+
+# =============================================================================
+# Crimes
+# =============================================================================
+
+# Гражданские иски
+# =============================================================================
+BEGIN Crime
+    Name            Bribery
+    MinSentence     2
+    MaxSentence     10
+    Risk            Low
+    Trait           Fraud
+END
+
+BEGIN Crime
+    Name            Addict
+    MinSentence     2
+    MaxSentence     7
+    Risk            Low
+    Trait           Narcotics
+END
+
+BEGIN Crime
+    Name            DrunkDisorderlyBehaviour
+    MinSentence     1
+    MaxSentence     2
+    Risk            Low
+    Trait           Narcotics
+END
+
+BEGIN Crime
+    Name            DangerousDriving
+    MinSentence     1
+    MaxSentence     2
+    Risk            Low
+    Trait           RisksLife
+    Trait           Vehicular
+END
+
+BEGIN Crime
+    Name            DrivingUnderInfluence
+    MinSentence     1
+    MaxSentence     4
+    Risk            Low
+    Trait           RisksLife
+    Trait           Narcotics
+    Trait           Vehicular
+END
+
+BEGIN Crime
+    Name            Fraud
+    MinSentence     2
+    MaxSentence     10
+    Risk            Low
+    Trait           Fraud
+END
+
+BEGIN Crime
+    Name            Forgery
+    MinSentence     2
+    MaxSentence     10
+    Risk            Low
+    Trait           Fraud
+END
+
+BEGIN Crime
+    Name            Delinquency
+    MinSentence     2
+    MaxSentence     5
+    Risk            Low
+    Trait           Fraud
+END
+
+BEGIN Crime
+    Name            DestructionOfProperty
+    MinSentence     1
+    MaxSentence     2
+    Risk            Low
+    Trait           Destructive
+    Trait           Young
+END
+
+BEGIN Crime
+    Name            FalseAccounting
+    MinSentence     1
+    MaxSentence     7
+    Risk            Low
+    Trait           Fraud
+    Trait           Clever
+END
+
+BEGIN Crime
+    Name            Trading
+    MinSentence     3
+    MaxSentence     5
+    Risk            Low
+    Trait           Fraud
+	Trait           Clever
+END
+
+BEGIN Crime
+    Name            Perjury
+    MinSentence     3
+    MaxSentence     7
+    Risk            Low
+END
+
+BEGIN Crime
+    Name            Pickpocketing
+    MinSentence     2
+    MaxSentence     10
+    Risk            Low
+    Trait           Theft
+    Trait           Petty
+    Trait           Young
+END
+
+# =============================================================================
+# Политические статьи
+# =============================================================================
+
+BEGIN Crime
+    Name            EnemyOfThePeople
+    MinSentence     2
+    MaxSentence     5
+    Risk            Medium
+END
+
+BEGIN Crime
+    Name            BannedLiterature
+    MinSentence     2
+    MaxSentence     7
+    Risk            Medium
+	Trait           Clever
+END
+
+BEGIN Crime
+    Name            Rioting
+    MinSentence     5
+    MaxSentence     10
+    Risk            Medium
+    Trait           Violent
+    Trait           Destructive
+END
+
+BEGIN Crime
+    Name            AntipartyActivity
+    MinSentence     5
+    MaxSentence     15
+    Risk            Medium
+    Trait           Clever
+END
+
+BEGIN Crime
+    Name            Espionage 
+    MinSentence     8
+    MaxSentence     15
+    Risk            Medium
+    Trait           Clever
+END
+
+BEGIN Crime
+    Name            Sabotage
+    MinSentence     8
+    MaxSentence     15
+    Risk            Medium
+    Trait           Destructive
+END
+
+BEGIN Crime
+    Name            Propaganda 
+    MinSentence     5
+    MaxSentence     10
+    Risk            Medium
+    Trait           Clever
+END
+
+
+# =============================================================================
+# Уголовные
+# =============================================================================
+
+BEGIN Crime
+    Name            Burglary
+    MinSentence     10
+    MaxSentence     25
+    Risk            High
+    Trait           Theft
+    Trait           RisksLife
+END
+
+BEGIN Crime
+    Name            Arson
+    MinSentence     15
+    MaxSentence     25
+    Risk            High
+    Trait           RisksLife
+    Trait           Destructive
+END
+
+BEGIN Crime
+    Name            DeathByDangerousDriving
+    MinSentence     8
+    MaxSentence     14
+    Risk            High
+    Trait           RisksLife
+    Trait           Vehicular
+END
+
+BEGIN Crime
+    Name            Kidnapping
+    MinSentence     4
+    MaxSentence     7
+    Risk            High
+    Trait           Controlling
+END
+
+BEGIN Crime
+    Name            Torture
+    MinSentence     5
+    MaxSentence     15
+    Risk            High
+    Trait           Violent
+    Trait           Controlling
+END
+
+BEGIN Crime
+    Name            Assault
+    MinSentence     10
+    MaxSentence     15
+    Risk            High
+    Trait           Violent
+    Trait           RisksLife
+END
+
+BEGIN Crime
+    Name            AssaultingAnOfficer
+    MinSentence     10
+    MaxSentence     20
+    Risk            High
+    Trait           Violent
+	Trait           RisksLife
+END
+
+BEGIN Crime
+    Name            GreviousBodilyHarm
+    MinSentence     7
+    MaxSentence     15
+    Risk            High
+    Trait           Violent
+    Trait           RisksLife
+END
+
+BEGIN Crime         
+    Name            Murder             
+    MinSentence     25  
+    MaxSentence     25  
+    Risk            High
+    Trait           Violent
+    Trait           Lethal
+END
+
+BEGIN Crime
+    Name            AttemptedMurder
+    MinSentence     10
+    MaxSentence     25
+    Risk            High
+    Trait           Violent
+    Trait           Lethal
+END
+
+BEGIN Crime
+    Name            Manslaughter
+    MinSentence     10
+    MaxSentence     25
+    Risk            High
+    Trait           Lethal
+END
+
+BEGIN Crime
+    Name            Trafficking
+    MinSentence     10
+    MaxSentence     15
+    Risk            Medium
+    Trait           Controlling
+END
+
+BEGIN Crime
+    Name            Robbery
+    MinSentence     15
+    MaxSentence     25
+    Risk            High
+    Trait           Theft
+    Trait           RisksLife
+END
+
+BEGIN Crime
+    Name            HandlingStolenGoods
+    MinSentence     2
+    MaxSentence     14
+    Risk            High
+    Trait           Theft
+    Trait           Fraud
+END
+
+BEGIN Crime
+    Name            Rape
+    MinSentence     4
+    MaxSentence     15
+    Risk            High
+    Trait           Sexual
+    Trait           Violent
+END
+
+
+# =============================================================================
+# Reputation
+
+BEGIN Reputation
+    Name            Legendary
+    ChanceLow       0
+    ChanceMedium    0
+    ChanceHigh      1
+END
+
+BEGIN Reputation
+    Name            Strong
+    ChanceLow       0
+    ChanceMedium    5
+    ChanceHigh      15
+END
+
+BEGIN Reputation
+    Name            Tough
+    ChanceLow       0
+    ChanceMedium    5
+    ChanceHigh      15
+END
+
+BEGIN Reputation
+    Name            Quick
+    ChanceLow       3
+    ChanceMedium    5
+    ChanceHigh      3
+END
+
+BEGIN Reputation
+    Name            Volatile
+    ChanceLow       0
+    ChanceMedium    3
+    ChanceHigh      7
+END
+
+BEGIN Reputation
+    Name            Stoical
+    ChanceLow       0
+    ChanceMedium    10
+    ChanceHigh      20
+END
+
+BEGIN Reputation
+    Name            Fearless
+    ChanceLow       0
+    ChanceMedium    5
+    ChanceHigh      15
+END
+
+BEGIN Reputation
+    Name            Deadly
+    ChanceLow       0
+    ChanceMedium    1
+    ChanceHigh      2
+END
+
+BEGIN Reputation
+    Name            Snitch
+    ChanceLow       3
+    ChanceMedium    2
+    ChanceHigh      1
+END
+
+BEGIN Reputation
+    Name            ExLaw
+    ChanceLow       3
+    ChanceMedium    2
+    ChanceHigh      1
+END
+
+BEGIN Reputation
+    Name            CopKiller
+    ChanceLow       0
+    ChanceMedium    0
+    ChanceHigh      5
+END
+
+BEGIN Reputation
+    Name            Instigator
+    ChanceLow       0
+    ChanceMedium    1
+    ChanceHigh      3
+END
+
+BEGIN Reputation
+    Name            Fighter
+    ChanceLow       1
+    ChanceMedium    2
+    ChanceHigh      5
+END
+
+BEGIN Reputation
+    Name            GangMember
+    ChanceLow       0
+    ChanceMedium    10
+    ChanceHigh      25
+END
+
+BEGIN Reputation
+    Name            FederalWitness
+    ChanceLow       0
+    ChanceMedium    0
+    ChanceHigh      0
+END
+
+BEGIN Reputation
+    Name            Preacher
+    ChanceLow       0
+    ChanceMedium    0
+    ChanceHigh      0
+END
